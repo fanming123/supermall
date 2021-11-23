@@ -1,0 +1,196 @@
+<template>
+    
+    <div class="wrapper">     
+            <ul>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>3</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>8</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>7</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>9</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                  <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>5</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+                <li>2</li>
+            </ul>
+    </div>
+</template>
+<script>
+export default {
+    name: "Category",
+    data() {
+        return {
+
+        }
+    },
+    mounted() {
+    }
+   
+}
+</script>
+<style scoped>
+    .wrapper {
+        height: 150px;
+        background-color: red;
+        overflow: hidden;
+    }
+</style>
